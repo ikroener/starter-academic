@@ -37,4 +37,12 @@ date_format = "Jan 2006"
   date_end = "2020-11-30"
   description = """ """
 
+[[experience]]
+  title = "Visiting Researcher"
+  company = "Climate Change Research Centre"
+  location = "University of New South Wales, Sydney, Australia"
+  date_start = "2016-03-01"
+  date_end = "2016-05-31"
+  description = """ """
+
 +++
